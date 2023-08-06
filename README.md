@@ -24,7 +24,7 @@ The Console was coded in order to work with a temporary storage engine based on 
 - Update attributes of an object
 - Destroy an object
 
-The console has 2 modes.
+<strong>The console has 2 modes.</strong>
 
 **Interactive**
 
